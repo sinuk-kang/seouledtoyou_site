@@ -1,0 +1,84 @@
+
+.ourstory{
+  clear :right;
+  padding-bottom: 50px;
+
+}
+
+
+.webringseoultoyou {
+ position : relative;
+ bottom : 20px;
+ font-size: 10px;
+
+}
+
+.seoul_title {
+  color: #490525;
+  font-family: 'Lato', sans-serif;
+  width: 100%;
+  font-size: 2em;
+}
+
+.seoulbuilding{
+  width: 70%;
+  position : relative;
+  padding-top: 50px;
+  bottom : 40px;
+}
+
+.first_container{
+  position :relative;
+  background-color: #e4f9f5;
+
+
+}
+.middle-container {
+
+  position: relative;
+  background-color: #e4f9f5
+
+}
+
+.bottom-container {
+  background-color: #e4f9f5;
+  font-size: 70%;
+  font-family: 'Montserrat', sans-serif;
+}
+.logo{
+  width:40%;
+  padding-bottom: 50px;
+
+}
+.profile{
+text-align: center;
+width : 80%;
+margin: 0 auto 0 auto;
+
+
+}
+
+body {
+  margin: 0;
+
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 200%;
+  text-align: center;
+
+  margin : 0 auto 0 0;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  margin-top: 0;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
