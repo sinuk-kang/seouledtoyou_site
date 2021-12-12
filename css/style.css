@@ -1,7 +1,7 @@
 
 .ourstory{
   clear :right;
-  padding-bottom: 50px;
+  font-stretch: expanded;
 
 }
 
@@ -36,14 +36,16 @@
 .middle-container {
 
   position: relative;
-  background-color: #e4f9f5
+  background-color: #e4f9f5;
+  padding-bottom:  10px;
 
 }
 
 .bottom-container {
   background-color: #e4f9f5;
-  font-size: 70%;
+  font-size: 120%;
   font-family: 'Montserrat', sans-serif;
+
 }
 .logo{
   width:30%;
@@ -69,13 +71,14 @@ h1 {
   font-size: 200%;
   text-align: center;
 
-  margin : 0 auto 0 0;
+  margin : 0 auto 0 auto;
   font-family: 'Sacramento', cursive;
 }
 
 h2 {
-  margin-top: 0;
+
   font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
 
 }
 
